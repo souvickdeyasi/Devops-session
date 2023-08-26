@@ -5,9 +5,9 @@ int multi(int a, int b)
     return (a * b);
 }
 
-int diff(int a, int b)
+int diff(int c, int b)
 {
-    return (a - b);
+    return (c - b);
 }
 
 int main()
